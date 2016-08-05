@@ -1,0 +1,34 @@
+_repo: Northern-Lights-Complete_6191
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Parker, Gilbert
+    aliases:
+    - Parker, Horatio Gilbert
+    - Parker, Gilbert, Sir, bart.
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '1285'
+    url: http://www.gutenberg.org/2009/agents/1285
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Parker
+description: ''
+gutenberg_issued: '2004-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6191'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Canada, Northern -- Fiction'
+- GITenberg
+tableOfContents: A lodge in the wilderness -- One at Red Man's River -- The stroke
+  of the hour -- Buckmaster's boy -- To-morrow -- Qu'appelle -- The stake and the
+  plumb-line -- When the swallows homeward fly -- George's wife -- Marcile -- A man,
+  a famine, and a heathen boy -- The healing springs and the pioneers -- The little
+  widow of Jansen -- Watching the rise of Orion -- The error of the day -- The whisperer
+  -- As deep as the sea.
+title: Northern Lights, Complete
+url: http://www.gutenberg.org/ebooks/6191
